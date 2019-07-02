@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+nav {
+  align-items: center;
+  background-color: #e98251;
+  display: flex;
+  height: 60px;
+  justify-content: space-evenly;
+}
+
+nav a {
+  color: #17386d;
+  text-decoration: none;
+  font-size: 18pt;
+  font-family: "vt323", monospace;
+}
+
+header {
+  background-image: url("images/kages.jpg");
+  background-size: cover;
+  height: 300px;
+}
