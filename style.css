@@ -21,3 +21,30 @@ header {
   background-size: cover;
   height: 300px;
 }
+
+section {
+  background-color: #048abf;
+  display: flex;
+  justify-content: space-evenly;
+  font-family: "vtd323", monospace;
+}
+
+div {
+  width: 40%;
+}
+
+div ul {
+  list-style-image: url("images/kunai.png");
+}
+
+div p {
+  text-align: justify;
+}
+
+ul li:nth-child(even) {
+  color: white;
+}
+
+h2 {
+  font-size: 22pt;
+}
