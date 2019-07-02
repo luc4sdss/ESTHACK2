@@ -48,3 +48,8 @@ ul li:nth-child(even) {
 h2 {
   font-size: 22pt;
 }
+
+input::placeholder {
+  font-family: "vt323" monospace;
+  background-color: #e98251;
+}
